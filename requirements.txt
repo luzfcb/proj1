@@ -2,7 +2,7 @@ aldjemy==0.8.0
 anyjson==0.3.3
 appdirs==1.4.3
 # awesome-slugify==1.6.5
-awesome-slugify@https://github.com/lumocodes/awesome-slugify/archive/f6022fe61c208a9419d5e3c331bfef410a49ee14.zip
+awesome-slugify==1.6.5
 backports.csv==1.0.7
 #boto==2.48.0
 #boto3==1.12.49
