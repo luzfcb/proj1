@@ -29,7 +29,7 @@ django-autocomplete-light==3.2.10
 django-autoslug==1.9.3
 django-bootstrap-form==3.4
 django-braces==1.13.0
-django-cachalot==2.0.2
+django-cachalot==2.3.3
 # django-cachalot==2.3.2 # required by Django>=2.1
 django-cors-headers==3.0.2
 django-countries==5.3.1
