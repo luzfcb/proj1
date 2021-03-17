@@ -34,7 +34,7 @@ django-cachalot==2.0.2
 django-cors-headers==3.0.2
 django-countries==5.3.1
 #django-debug-toolbar==1.4.2
-django-debug-toolbar@https://github.com/lumocodes/django-debug-toolbar/archive/74a790cb9434b936f22516e84bbf589727ebe0b4.zip
+django-debug-toolbar==3.2
 django-extensions==2.1.0
 django-extra-fields==2.0.3
 django-filter==1.1.0
