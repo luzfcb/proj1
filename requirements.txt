@@ -32,7 +32,7 @@ django-braces==1.13.0
 django-cachalot==2.0.2
 # django-cachalot==2.3.2 # required by Django>=2.1
 django-cors-headers==3.0.2
-django-countries==5.3.1
+django-countries==7.1
 #django-debug-toolbar==1.4.2
 django-debug-toolbar@https://github.com/lumocodes/django-debug-toolbar/archive/74a790cb9434b936f22516e84bbf589727ebe0b4.zip
 django-extensions==2.1.0
