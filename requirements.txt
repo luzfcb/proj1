@@ -1,4 +1,4 @@
-aldjemy==0.8.0
+aldjemy==1.0.0
 anyjson==0.3.3
 appdirs==1.4.3
 # awesome-slugify==1.6.5
