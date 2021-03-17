@@ -81,7 +81,7 @@ lxml==4.6.2
 MarkupPy==1.14
 numpy==1.20.1
 odfpy==1.4.1
-openpyxl==2.6.4
+openpyxl==3.0.7
 pandas==1.2.3
 paramiko==1.18.5
 pilkit==2.0
