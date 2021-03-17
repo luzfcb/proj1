@@ -21,7 +21,7 @@ defusedxml==0.7.1
 diff-match-patch==20200713
 distlib==0.3.0
 dj-database-url==0.5.0
-Django==1.11.24
+Django==3.1.7
 django-allauth==0.36.0
 django-appconf==1.0.2
 django-async-messages==0.3.1
