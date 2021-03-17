@@ -52,7 +52,7 @@ django-ses==1.0.3
 django-storages@https://github.com/lumocodes/django-storages/archive/65e75533e10f5725afc78f3a2f544722750b04de.zip
 # To a faster collectstatic command
 #Collectfast==2.2.0
-Collectfast@https://github.com/lumocodes/collectfast/archive/5cfe330563c8120d0dc38231fce2049468f74702.zip
+Collectfast==2.2.0
 #django-suit==0.2.26
 django-suit@https://github.com/lumocodes/django-suit/archive/72d0d979c0b6b1cc5f4751e932a4dc7ad3eaeb1a.zip
 django-suit-daterange-filter==0.0.7
