@@ -25,7 +25,7 @@ Django==1.11.24
 django-allauth==0.36.0
 django-appconf==1.0.2
 django-async-messages==0.3.1
-django-autocomplete-light==3.2.10
+django-autocomplete-light==3.8.2
 django-autoslug==1.9.3
 django-bootstrap-form==3.4
 django-braces==1.13.0
