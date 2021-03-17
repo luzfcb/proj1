@@ -37,7 +37,7 @@ django-countries==5.3.1
 django-debug-toolbar@https://github.com/lumocodes/django-debug-toolbar/archive/74a790cb9434b936f22516e84bbf589727ebe0b4.zip
 django-extensions==2.1.0
 django-extra-fields==2.0.3
-django-filter==1.1.0
+django-filter==2.4.0
 #django-filter==2.4.0 #django-filter >-=2.0 required to upgrade syntax
 django-formset-js==0.5.0
 django-imagekit==4.0.2
