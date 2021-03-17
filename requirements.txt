@@ -49,7 +49,7 @@ django-resumable@https://github.com/lumocodes/django-resumable/archive/506cd858b
 django-s3direct==1.0.4
 django-ses==1.0.3
 #django-storages==1.6.6
-django-storages@https://github.com/lumocodes/django-storages/archive/65e75533e10f5725afc78f3a2f544722750b04de.zip
+django-storages==1.11.1
 # To a faster collectstatic command
 #Collectfast==2.2.0
 Collectfast@https://github.com/lumocodes/collectfast/archive/5cfe330563c8120d0dc38231fce2049468f74702.zip
