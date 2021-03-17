@@ -125,7 +125,7 @@ celery==5.0.5
 #flower==0.9.7
 django-celery-beat@https://github.com/lumocodes/django-celery-beat/archive/0321e0d66137c6fd58fd7428c77b417bf2118260.zip
 # django-timezone-field is required by django-celery-beat
-django-timezone-field@https://github.com/lumocodes/django-timezone-field/archive/c095ce10594ff87bc29f7b054cea9996978128cc.zip
+django-timezone-field==4.1.2
 django-celery-results==2.0.1
 billiard==3.6.3.0
 #vine==5.0.0
