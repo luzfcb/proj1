@@ -58,7 +58,7 @@ django-suit@https://github.com/lumocodes/django-suit/archive/72d0d979c0b6b1cc5f4
 django-suit-daterange-filter==0.0.7
 django-template-debug==0.3.5
 django-versatileimagefield==1.10
-django-widget-tweaks==1.4.2
+django-widget-tweaks==1.4.8
 djangorestframework==3.8.2
 djangorestframework-jwt==1.11.0
 djangorestframework-link-header-pagination==0.1.1
