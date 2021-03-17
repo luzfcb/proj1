@@ -14,7 +14,7 @@ urllib3==1.26.3
 s3transfer==0.3.4
 certifi==2020.12.5
 chardet==3.0.4
-configparser==4.0.2
+configparser==5.0.2
 contextlib2==0.6.0.post1
 Cython==0.29.22
 defusedxml==0.7.1
