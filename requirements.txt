@@ -65,7 +65,7 @@ djangorestframework-link-header-pagination==0.1.1
 djrill==2.1.0
 docutils==0.15.2
 drf-dynamic-fields==0.3.1
-drf-writable-nested==0.5.3
+drf-writable-nested==0.6.2
 ecdsa==0.16.1
 et-xmlfile==1.0.1
 Fabric==1.11.1
