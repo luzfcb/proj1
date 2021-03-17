@@ -99,7 +99,7 @@ pytz==2018.4
 PyYAML==5.4.1
 raven==6.9.0
 redis==3.5.3
-django-redis==4.11.0
+django-redis==4.12.1
 regex==2020.1.8
 #requests==2.18.4
 requests==2.25.1
