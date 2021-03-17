@@ -85,7 +85,7 @@ openpyxl==2.6.4
 pandas==1.2.3
 paramiko==1.18.5
 pilkit==2.0
-Pillow==5.1.0
+Pillow==8.1.2
 psycopg2==2.8.6
 pycrypto==2.6.1
 PyJWT==1.7.1
