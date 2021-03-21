@@ -77,7 +77,7 @@ importlib-metadata==1.6.0
 importlib-resources==1.4.0
 jdcal==1.4.1
 jmespath==0.10.0
-lxml==4.6.2
+lxml==4.6.3
 MarkupPy==1.14
 numpy==1.20.1
 odfpy==1.4.1
