@@ -3,7 +3,7 @@ django-braces@https://github.com/lumocodes/django-braces/archive/829474dd8dd63ea
 boto3==1.17.27
 django-autocomplete-light==3.8.2
 django-autoslug==1.9.8
-django-async-messages-redux@https://github.com/lumocodes/django-async-messages-redux/archive/07072882697f08f418d3a1876b71f3a76b95054d.zip
+django-async-messages-redux==0.4.1
 django-s3direct==1.0.4
 django-allauth==0.44.0
 django-countries[pyuca]==7.1
