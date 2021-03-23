@@ -17,7 +17,7 @@ psycopg2-binary==2.8.4
 python-decouple==3.3
 pytz==2019.3
 redis==3.3.11
-rq==1.1.0
+rq==1.7.0
 six==1.13.0
 sqlparse==0.3.0
 Unipath==1.1
