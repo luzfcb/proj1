@@ -15,13 +15,13 @@ django-storages==1.11.1
 Collectfast==2.2.0
 django-suit@https://github.com/lumocodes/django-suit/archive/72d0d979c0b6b1cc5f4751e932a4dc7ad3eaeb1a.zip
 django-formset-js==0.5.0
-lxml==4.6.2
+lxml==4.6.3
 django-cors-headers==3.7.0
 python-memcached==1.59
 unicodecsv==0.14.1
 drf-dynamic-fields==0.3.1
 drf-writable-nested==0.6.2
-xlrd==1.1.0
+xlrd==2.0.1
 pandas==1.2.3
 django-rest-passwordreset==1.1.0
 django-import-export==2.5.0
@@ -31,17 +31,17 @@ django-suit-daterange-filter==0.0.7
 django-template-debug==0.3.5
 #django-versatileimagefield==1.10
 django-versatileimagefield@https://github.com/luzfcb/django-versatileimagefield/archive/3487882b195b24b1e286ac953f36e13eced0a4be.zip
-django-extensions==2.1.0
+django-extensions==3.1.1
 djrill==2.1.0  # TODO: Migrate to django-anymail
-django-widget-tweaks==1.4.2
-djangorestframework==3.12.2
+django-widget-tweaks==1.4.8
+djangorestframework==3.12.4
 uritemplate==3.0.1 # required by drf to openapi support
 PyYAML==5.4.1
 #djangorestframework-jwt==1.11.0
-drf-jwt==1.17.3 # a replacement for djangorestframework-jwt
+drf-jwt==1.19.0 # a replacement for djangorestframework-jwt
 djangorestframework-link-header-pagination==0.1.1
 redis==3.5.3
-django-redis==4.11.0
+django-redis==4.12.1
 requests==2.25.1
 requests-oauthlib==1.3.0
 celery==5.0.5
@@ -51,7 +51,8 @@ django-celery-results==2.0.1
 python-decouple==3.4
 sparkpost==1.3.6
 python3-openid==3.2.0
-Pillow==5.1.0
+#Pillow==5.1.0
+Pillow==8.2.0
 psycopg2==2.8.6
 dj-database-url==0.5.0
 awesome-slugify@https://github.com/lumocodes/awesome-slugify/archive/f6022fe61c208a9419d5e3c331bfef410a49ee14.zip
