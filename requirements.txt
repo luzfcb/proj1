@@ -8,7 +8,7 @@ django-s3direct==1.0.4
 django-allauth==0.44.0
 django-countries[pyuca]==7.1
 django-bootstrap-form==3.4
-django-debug-toolbar@https://github.com/lumocodes/django-debug-toolbar/archive/74a790cb9434b936f22516e84bbf589727ebe0b4.zip
+django-debug-toolbar==3.2.1
 django-filter==2.4.0
 django-resumable@https://github.com/lumocodes/django-resumable/archive/506cd858bc25560552c3c437095ff912d1a64b81.zip
 django-storages@https://github.com/lumocodes/django-storages/archive/65e75533e10f5725afc78f3a2f544722750b04de.zip
