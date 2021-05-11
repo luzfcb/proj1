@@ -6,7 +6,7 @@ django-autoslug==1.9.8
 django-async-messages-redux@https://github.com/lumocodes/django-async-messages-redux/archive/07072882697f08f418d3a1876b71f3a76b95054d.zip
 django-s3direct==1.0.4
 django-allauth==0.44.0
-django-countries[pyuca]==7.1
+django-countries[pyuca]==7.2.1
 django-bootstrap-form==3.4
 django-debug-toolbar@https://github.com/lumocodes/django-debug-toolbar/archive/74a790cb9434b936f22516e84bbf589727ebe0b4.zip
 django-filter==2.4.0
