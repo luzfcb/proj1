@@ -20,7 +20,7 @@ django-cors-headers==3.7.0
 python-memcached==1.59
 unicodecsv==0.14.1
 drf-dynamic-fields==0.3.1
-drf-writable-nested==0.6.2
+drf-writable-nested==0.6.3
 xlrd==2.0.1
 pandas==1.2.3
 django-rest-passwordreset==1.1.0
