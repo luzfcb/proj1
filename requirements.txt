@@ -1,6 +1,6 @@
 Django==3.2.0rc1
 django-braces@https://github.com/lumocodes/django-braces/archive/829474dd8dd63ea8bcafa91259d1bd0f7fed624d.zip
-boto3==1.17.27
+boto3==1.18.21
 django-autocomplete-light==3.8.2
 django-autoslug==1.9.8
 django-async-messages-redux@https://github.com/lumocodes/django-async-messages-redux/archive/07072882697f08f418d3a1876b71f3a76b95054d.zip
