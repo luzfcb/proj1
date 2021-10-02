@@ -1,6 +1,6 @@
 aiohttp==3.7.4
 amqp==2.6.1
-arrow==0.14.7
+arrow==1.2.0
 aspy.yaml==1.1.1
 async-timeout==3.0.1
 attrs==20.2.0
