@@ -16,7 +16,7 @@ Collectfast==2.2.0
 django-suit@https://github.com/lumocodes/django-suit/archive/72d0d979c0b6b1cc5f4751e932a4dc7ad3eaeb1a.zip
 django-formset-js==0.5.0
 lxml==4.6.3
-django-cors-headers==3.7.0
+django-cors-headers==3.10.0
 python-memcached==1.59
 unicodecsv==0.14.1
 drf-dynamic-fields==0.3.1
