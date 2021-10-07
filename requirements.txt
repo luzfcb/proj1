@@ -11,7 +11,7 @@ django-bootstrap-form==3.4
 django-debug-toolbar@https://github.com/lumocodes/django-debug-toolbar/archive/74a790cb9434b936f22516e84bbf589727ebe0b4.zip
 django-filter==2.4.0
 django-resumable@https://github.com/lumocodes/django-resumable/archive/506cd858bc25560552c3c437095ff912d1a64b81.zip
-django-storages@https://github.com/lumocodes/django-storages/archive/65e75533e10f5725afc78f3a2f544722750b04de.zip
+django-storages==1.12
 Collectfast@https://github.com/lumocodes/collectfast/archive/5cfe330563c8120d0dc38231fce2049468f74702.zip
 django-suit@https://github.com/lumocodes/django-suit/archive/72d0d979c0b6b1cc5f4751e932a4dc7ad3eaeb1a.zip
 django-formset-js==0.5.0
