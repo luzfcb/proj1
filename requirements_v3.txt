@@ -35,7 +35,7 @@ django-extensions==3.1.1
 djrill==2.1.0  # TODO: Migrate to django-anymail
 django-widget-tweaks==1.4.8
 djangorestframework==3.12.4
-uritemplate==3.0.1 # required by drf to openapi support
+uritemplate==4.1.1 # required by drf to openapi support
 PyYAML==5.4.1
 #djangorestframework-jwt==1.11.0
 drf-jwt==1.19.0 # a replacement for djangorestframework-jwt
