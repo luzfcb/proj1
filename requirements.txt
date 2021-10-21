@@ -33,7 +33,7 @@ django-template-debug==0.3.5
 django-versatileimagefield@https://github.com/lumocodes/django-versatileimagefield/archive/326f445ceb149d8f588d8f58a2a77861fcf4d202.zip
 django-extensions==2.1.0
 djrill==2.1.0  # TODO: Migrate to django-anymail
-django-widget-tweaks==1.4.2
+django-widget-tweaks==1.4.9
 djangorestframework==3.12.2
 uritemplate==3.0.1 # required by drf to openapi support
 PyYAML==5.4.1
