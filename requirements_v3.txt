@@ -31,7 +31,7 @@ django-suit-daterange-filter==0.0.7
 django-template-debug==0.3.5
 #django-versatileimagefield==1.10
 django-versatileimagefield@https://github.com/luzfcb/django-versatileimagefield/archive/3487882b195b24b1e286ac953f36e13eced0a4be.zip
-django-extensions==3.1.1
+django-extensions==3.1.5
 djrill==2.1.0  # TODO: Migrate to django-anymail
 django-widget-tweaks==1.4.8
 djangorestframework==3.12.4
