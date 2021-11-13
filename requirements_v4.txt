@@ -4,7 +4,7 @@ arrow==0.14.7
 aspy.yaml==1.1.1
 async-timeout==3.0.1
 attrs==20.2.0
-bandit==1.4.0
+bandit==1.7.1
 barnum==0.5.1
 beautifulsoup4==4.6.0
 billiard==3.6.3.0
