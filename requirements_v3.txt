@@ -5,7 +5,7 @@ django-autocomplete-light==3.8.2
 django-autoslug==1.9.8
 django-async-messages-redux@https://github.com/lumocodes/django-async-messages-redux/archive/a163d0ad783bf4937d84d6948970e06c4aa018e9.zip
 django-s3direct==1.0.4
-django-allauth==0.44.0
+django-allauth==0.46.0
 django-countries[pyuca]==7.1
 django-bootstrap-form==3.4
 django-debug-toolbar==3.2
