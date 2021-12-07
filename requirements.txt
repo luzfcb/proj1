@@ -24,7 +24,7 @@ drf-writable-nested==0.6.2
 xlrd==1.1.0
 pandas==1.2.3
 django-rest-passwordreset==1.1.0
-django-import-export==2.5.0
+django-import-export==2.7.0
 tablib==3.0.0
 django-model-utils==4.1.1
 django-suit-daterange-filter==0.0.7
