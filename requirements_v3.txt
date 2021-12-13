@@ -34,7 +34,7 @@ django-versatileimagefield@https://github.com/luzfcb/django-versatileimagefield/
 django-extensions==3.1.1
 djrill==2.1.0  # TODO: Migrate to django-anymail
 django-widget-tweaks==1.4.8
-djangorestframework==3.12.4
+djangorestframework==3.13.0
 uritemplate==3.0.1 # required by drf to openapi support
 PyYAML==5.4.1
 #djangorestframework-jwt==1.11.0
