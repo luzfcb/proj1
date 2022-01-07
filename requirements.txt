@@ -728,7 +728,7 @@ unicodecsv==0.14.1
     #   -r dev.txt
     #   -r heroku.txt
     #   tablib
-urllib3==1.26.6
+urllib3==1.26.8
     # via
     #   -r dev.txt
     #   -r heroku.txt
