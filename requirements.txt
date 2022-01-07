@@ -668,7 +668,7 @@ six==1.16.0
     #   tapioca-wrapper
     #   twilio
     #   virtualenv
-smmap==4.0.0
+smmap==5.0.0
     # via
     #   -r dev.txt
     #   gitdb
