@@ -457,7 +457,7 @@ model-bakery==1.0.0
     # via
     #   -r dev.txt
     #   -r heroku.txt
-more-itertools==8.8.0
+more-itertools==8.12.0
     # via
     #   -r dev.txt
     #   -r heroku.txt
