@@ -718,7 +718,7 @@ twilio==6.51.1
     # via
     #   -r dev.txt
     #   -r heroku.txt
-typing-extensions==3.10.0.2
+typing-extensions==4.0.1
     # via
     #   -r dev.txt
     #   -r heroku.txt
