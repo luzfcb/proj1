@@ -492,7 +492,7 @@ pbr==3.1.1
     #   -r heroku.txt
     #   mock
     #   stevedore
-pep517==0.10.0
+pep517==0.12.0
     # via
     #   -r dev.txt
     #   pip-tools
