@@ -528,7 +528,7 @@ prompt-toolkit==3.0.18
     #   -r dev.txt
     #   -r heroku.txt
     #   ipython
-psycopg2-binary==2.8.6
+psycopg2-binary==2.9.3
     # via
     #   -r dev.txt
     #   -r heroku.txt
