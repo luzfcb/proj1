@@ -641,7 +641,7 @@ sentry-sdk==1.5.1
     # via
     #   -r dev.txt
     #   -r heroku.txt
-simplejson==3.17.5
+simplejson==3.17.6
     # via
     #   -r dev.txt
     #   -r heroku.txt
