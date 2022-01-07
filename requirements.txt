@@ -367,7 +367,7 @@ future==0.17.1
     #   -r dev.txt
     #   -r heroku.txt
     #   barnum
-gitdb==4.0.7
+gitdb==4.0.9
     # via
     #   -r dev.txt
     #   gitpython
