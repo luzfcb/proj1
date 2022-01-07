@@ -128,7 +128,7 @@ diff-match-patch==20181111
     #   -r dev.txt
     #   -r heroku.txt
     #   django-import-export
-distlib==0.3.2
+distlib==0.3.4
     # via
     #   -r dev.txt
     #   virtualenv
