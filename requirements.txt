@@ -608,7 +608,7 @@ pyyaml==5.4
     #   bandit
     #   pre-commit
     #   tablib
-redis==2.10.6
+redis==4.1.0
     # via
     #   -r dev.txt
     #   -r heroku.txt
