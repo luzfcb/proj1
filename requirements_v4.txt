@@ -4,16 +4,6 @@
 #
 #    pip-compile --output-file=all_deps.txt all_deps.in
 #
--e git+https://github.com/labcodes/celery.git@7a7d0c5ffe67ad2fa4760fbdaa13635c4da72947#egg=celery
-    # via
-    #   -r dev.txt
-    #   -r heroku.txt
-    #   django-celery-beat
-    #   django-celery-results
--e git+https://github.com/labcodes/django-auditlog.git@9ece9b2f9dee0e8b903c6e33142a05f0ea6be3d8#egg=django-auditlog
-    # via
-    #   -r dev.txt
-    #   -r heroku.txt
 aiohttp==3.7.4
     # via
     #   -r dev.txt
