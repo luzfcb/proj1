@@ -541,7 +541,7 @@ pycodestyle==2.7.0
     # via
     #   -r dev.txt
     #   flake8
-pycountry==20.7.3
+pycountry==22.1.10
     # via
     #   -r dev.txt
     #   -r heroku.txt
