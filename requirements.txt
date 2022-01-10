@@ -626,7 +626,7 @@ requests==2.26.0
     #   tapioca-wrapper
     #   taxjar
     #   twilio
-responses==0.10.15
+responses==0.17.0
     # via -r dev.txt
 s3transfer==0.4.2
     # via
