@@ -633,7 +633,7 @@ s3transfer==0.4.2
     #   -r dev.txt
     #   -r heroku.txt
     #   boto3
-sendgrid==6.1.0
+sendgrid==6.9.4
     # via
     #   -r dev.txt
     #   -r heroku.txt
