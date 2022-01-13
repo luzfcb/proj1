@@ -326,7 +326,7 @@ django-webpack-loader==1.0.0
     # via
     #   -r dev.txt
     #   -r heroku.txt
-django-widget-tweaks==1.4.1
+django-widget-tweaks==1.4.12
     # via
     #   -r dev.txt
     #   -r heroku.txt
