@@ -317,7 +317,7 @@ django-templated-email==2.3.0
     #   -r heroku.txt
 django-test-plus==1.4.0
     # via -r dev.txt
-django-timezone-field==4.1.1
+django-timezone-field==4.2.3
     # via
     #   -r dev.txt
     #   -r heroku.txt
