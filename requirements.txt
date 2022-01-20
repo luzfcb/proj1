@@ -176,7 +176,7 @@ django-admin-views==0.8.0
     # via
     #   -r dev.txt
     #   -r heroku.txt
-django-anymail==1.4
+django-anymail==8.5
     # via
     #   -r dev.txt
     #   -r heroku.txt
