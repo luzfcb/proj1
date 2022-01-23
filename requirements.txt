@@ -461,7 +461,7 @@ more-itertools==8.8.0
     # via
     #   -r dev.txt
     #   -r heroku.txt
-multidict==4.7.6
+multidict==6.0.1
     # via
     #   -r dev.txt
     #   -r heroku.txt
