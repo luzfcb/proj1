@@ -440,7 +440,7 @@ matplotlib-inline==0.1.2
     #   -r dev.txt
     #   -r heroku.txt
     #   ipython
-mccabe==0.6.1
+mccabe==0.7.0
     # via
     #   -r dev.txt
     #   flake8
