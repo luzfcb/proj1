@@ -101,7 +101,7 @@ click==8.0.1
     # via
     #   -r dev.txt
     #   pip-tools
-coverage==4.2
+coverage==6.3
     # via -r dev.txt
 cssutils==1.0.2
     # via
