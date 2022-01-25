@@ -335,7 +335,7 @@ djangorestframework==3.11.2
     #   -r dev.txt
     #   -r heroku.txt
     #   drf-exceptions-hog
-drf-exceptions-hog==0.1.0
+drf-exceptions-hog==0.2.0
     # via
     #   -r dev.txt
     #   -r heroku.txt
