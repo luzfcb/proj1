@@ -295,7 +295,7 @@ django-render-block==0.5
     #   -r dev.txt
     #   -r heroku.txt
     #   django-templated-email
-django-s3direct==1.0.4
+django-s3direct==2.0.0
     # via
     #   -r dev.txt
     #   -r heroku.txt
