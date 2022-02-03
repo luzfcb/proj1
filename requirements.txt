@@ -180,7 +180,7 @@ django-anymail==1.4
     # via
     #   -r dev.txt
     #   -r heroku.txt
-django-autocomplete-light==3.8.2
+django-autocomplete-light==3.9.1
     # via
     #   -r dev.txt
     #   -r heroku.txt
