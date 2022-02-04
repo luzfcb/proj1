@@ -515,7 +515,7 @@ pillow==8.3.2
     #   -r dev.txt
     #   -r heroku.txt
     #   django-svg-image-form-field
-pip-tools==6.4.0
+pip-tools==6.5.0
     # via -r dev.txt
 pre-commit==2.13.0
     # via -r dev.txt
