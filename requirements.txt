@@ -486,7 +486,7 @@ parso==0.8.2
     #   -r dev.txt
     #   -r heroku.txt
     #   jedi
-pbr==3.1.1
+pbr==5.8.1
     # via
     #   -r dev.txt
     #   -r heroku.txt
