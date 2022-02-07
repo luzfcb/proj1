@@ -282,7 +282,7 @@ django-object-actions==1.0.0
     # via
     #   -r dev.txt
     #   -r heroku.txt
-django-recaptcha==2.0.6
+django-recaptcha==3.0.0
     # via
     #   -r dev.txt
     #   -r heroku.txt
