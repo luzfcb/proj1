@@ -762,7 +762,7 @@ wheel==0.37.0
     # via
     #   -r dev.txt
     #   pip-tools
-whitenoise==4.1.4
+whitenoise==6.0.0
     # via -r heroku.txt
 xlrd==1.1.0
     # via
