@@ -523,7 +523,7 @@ pretty-cron==1.2.0
     # via
     #   -r dev.txt
     #   -r heroku.txt
-prompt-toolkit==3.0.18
+prompt-toolkit==3.0.28
     # via
     #   -r dev.txt
     #   -r heroku.txt
