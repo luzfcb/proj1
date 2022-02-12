@@ -92,7 +92,7 @@ chardet==3.0.4
     #   -r dev.txt
     #   -r heroku.txt
     #   aiohttp
-charset-normalizer==2.0.6
+charset-normalizer==2.0.12
     # via
     #   -r dev.txt
     #   -r heroku.txt
