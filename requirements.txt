@@ -255,7 +255,7 @@ django-jsonfield-compat==0.4.4
     #   -r dev.txt
     #   -r heroku.txt
     #   django-auditlog
-django-lifecycle==0.3.0
+django-lifecycle==0.9.5
     # via
     #   -r dev.txt
     #   -r heroku.txt
