@@ -384,7 +384,7 @@ hashids==1.2.0
     #   django-hashid-field
 html5lib==1.0.1
     # via -r dev.txt
-identify==2.2.10
+identify==2.4.10
     # via
     #   -r dev.txt
     #   pre-commit
