@@ -433,7 +433,7 @@ kombu==4.6.11
     #   -r dev.txt
     #   -r heroku.txt
     #   celery
-lxml==4.7.1
+lxml==4.8.0
     # via -r dev.txt
 matplotlib-inline==0.1.2
     # via
