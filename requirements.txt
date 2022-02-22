@@ -164,7 +164,7 @@ django==2.2.27
     #   djangorestframework
     #   drf-rw-serializers
     #   model-bakery
-django-admin-rangefilter==0.3.0
+django-admin-rangefilter==0.8.4
     # via
     #   -r dev.txt
     #   -r heroku.txt
