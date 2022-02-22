@@ -637,7 +637,7 @@ sendgrid==6.1.0
     # via
     #   -r dev.txt
     #   -r heroku.txt
-sentry-sdk==1.5.1
+sentry-sdk==1.5.6
     # via
     #   -r dev.txt
     #   -r heroku.txt
