@@ -103,7 +103,7 @@ click==8.0.1
     #   pip-tools
 coverage==6.2
     # via -r dev.txt
-cssutils==1.0.2
+cssutils==2.4.0
     # via
     #   -r dev.txt
     #   -r heroku.txt
