@@ -628,7 +628,7 @@ requests==2.26.0
     #   twilio
 responses==0.10.15
     # via -r dev.txt
-s3transfer==0.4.2
+s3transfer==0.5.2
     # via
     #   -r dev.txt
     #   -r heroku.txt
