@@ -691,7 +691,7 @@ tablib==0.12.1
     #   -r dev.txt
     #   -r heroku.txt
     #   django-import-export
-tapioca-wrapper==1.4.2
+tapioca-wrapper==2.0.2
     # via
     #   -r dev.txt
     #   -r heroku.txt
