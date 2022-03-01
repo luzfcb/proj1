@@ -701,7 +701,7 @@ taxjar==1.9.1
     #   -r heroku.txt
 tblib==1.3.2
     # via -r dev.txt
-testfixtures==6.17.1
+testfixtures==6.18.5
     # via -r dev.txt
 toml==0.10.2
     # via
