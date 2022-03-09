@@ -714,7 +714,7 @@ traitlets==5.0.5
     #   -r heroku.txt
     #   ipython
     #   matplotlib-inline
-twilio==6.51.1
+twilio==7.7.1
     # via
     #   -r dev.txt
     #   -r heroku.txt
