@@ -583,7 +583,7 @@ python-decouple==3.1
     # via
     #   -r dev.txt
     #   -r heroku.txt
-python-http-client==3.2.1
+python-http-client==3.3.7
     # via
     #   -r dev.txt
     #   -r heroku.txt
