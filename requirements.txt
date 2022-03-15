@@ -413,7 +413,7 @@ jedi==0.18.0
     #   -r dev.txt
     #   -r heroku.txt
     #   ipython
-jmespath==0.10.0
+jmespath==1.0.0
     # via
     #   -r dev.txt
     #   -r heroku.txt
