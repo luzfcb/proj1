@@ -593,7 +593,7 @@ python-monkey-business==1.0.0
     #   -r dev.txt
     #   -r heroku.txt
     #   django-nested-admin
-pytz==2018.9
+pytz==2022.1
     # via
     #   -r dev.txt
     #   -r heroku.txt
