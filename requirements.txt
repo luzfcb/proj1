@@ -745,7 +745,7 @@ vinta-django-waffle==0.15.1
     # via
     #   -r dev.txt
     #   -r heroku.txt
-virtualenv==20.4.7
+virtualenv==20.14.0
     # via
     #   -r dev.txt
     #   pre-commit
