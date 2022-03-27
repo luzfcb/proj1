@@ -394,7 +394,7 @@ idna==2.6
     #   -r heroku.txt
     #   requests
     #   yarl
-ipython==7.24.1
+ipython==8.2.0
     # via
     #   -r dev.txt
     #   -r heroku.txt
