@@ -682,7 +682,7 @@ stevedore==3.3.0
     # via
     #   -r dev.txt
     #   bandit
-stripe==2.55
+stripe==2.69.0
     # via
     #   -r dev.txt
     #   -r heroku.txt
