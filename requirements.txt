@@ -233,7 +233,7 @@ django-impersonate==1.4
     # via
     #   -r dev.txt
     #   -r heroku.txt
-django-import-export==1.1.0
+django-import-export==2.8.0
     # via
     #   -r dev.txt
     #   -r heroku.txt
