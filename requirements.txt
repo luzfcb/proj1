@@ -517,7 +517,7 @@ pillow==8.3.2
     #   django-svg-image-form-field
 pip-tools==6.4.0
     # via -r dev.txt
-pre-commit==2.13.0
+pre-commit==2.18.1
     # via -r dev.txt
 pretty-cron==1.2.0
     # via
