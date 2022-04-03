@@ -348,7 +348,7 @@ et-xmlfile==1.0.1
     #   -r dev.txt
     #   -r heroku.txt
     #   openpyxl
-facebook-business==10.0.1
+facebook-business==13.0.0
     # via
     #   -r dev.txt
     #   -r heroku.txt
