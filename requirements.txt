@@ -419,7 +419,7 @@ jmespath==0.10.0
     #   -r heroku.txt
     #   boto3
     #   botocore
-jsonobject==0.7.1
+jsonobject==2.0.0
     # via
     #   -r dev.txt
     #   -r heroku.txt
