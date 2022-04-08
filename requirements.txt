@@ -44,7 +44,7 @@ barnum==0.5.1
     # via
     #   -r dev.txt
     #   -r heroku.txt
-beautifulsoup4==4.6.0
+beautifulsoup4==4.11.0
     # via
     #   -r dev.txt
     #   -r heroku.txt
