@@ -686,7 +686,7 @@ stripe==2.55
     # via
     #   -r dev.txt
     #   -r heroku.txt
-tablib==0.12.1
+tablib==3.2.1
     # via
     #   -r dev.txt
     #   -r heroku.txt
