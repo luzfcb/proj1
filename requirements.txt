@@ -59,7 +59,7 @@ boltons==16.5.1
     # via
     #   -r dev.txt
     #   -r heroku.txt
-boto3==1.17.97
+boto3==1.21.41
     # via
     #   -r dev.txt
     #   -r heroku.txt
