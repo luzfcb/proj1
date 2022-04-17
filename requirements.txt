@@ -9,7 +9,7 @@ aiohttp==3.7.4
     #   -r dev.txt
     #   -r heroku.txt
     #   facebook-business
-amqp==2.6.1
+amqp==5.1.1
     # via
     #   -r dev.txt
     #   -r heroku.txt
