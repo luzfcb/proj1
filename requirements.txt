@@ -196,7 +196,7 @@ django-celery-beat==2.2.0
     # via
     #   -r dev.txt
     #   -r heroku.txt
-django-celery-results==1.0.1
+django-celery-results==2.3.1
     # via
     #   -r dev.txt
     #   -r heroku.txt
