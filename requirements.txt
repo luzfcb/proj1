@@ -271,7 +271,7 @@ pbr==3.1.1
     #   mock
 pexpect==4.8.0
     # via ipython
-phonenumbers==8.12.17
+phonenumbers==8.12.47
     # via -r base.txt
 pickleshare==0.7.5
     # via ipython
