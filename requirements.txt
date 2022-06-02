@@ -344,7 +344,7 @@ pyyaml==5.4
     # via
     #   -r base.txt
     #   tablib
-redis==2.10.6
+redis==4.3.3
     # via
     #   -r base.txt
     #   django-redis
