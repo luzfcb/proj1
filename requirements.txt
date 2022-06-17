@@ -136,7 +136,7 @@ django-debug-toolbar==3.2.3
     # via -r base.txt
 django-extensions==3.1.5
     # via -r base.txt
-django-filter==21.1
+django-filter==22.1
     # via -r base.txt
 django-froala-editor==2.9.3
     # via -r base.txt
