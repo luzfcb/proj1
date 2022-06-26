@@ -258,7 +258,7 @@ matplotlib-inline==0.1.2
     # via ipython
 mixpanel==4.3.2
     # via -r base.txt
-model-bakery==1.5.0
+model-bakery==1.6.0
     # via -r base.txt
 more-itertools==8.8.0
     # via -r base.txt
