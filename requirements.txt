@@ -16,7 +16,7 @@ amqp==2.6.1
     # via
     #   -r base.txt
     #   kombu
-arrow==0.14.7
+arrow==1.2.3
     # via
     #   -r base.txt
     #   tapioca-wrapper
