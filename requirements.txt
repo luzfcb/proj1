@@ -227,7 +227,7 @@ idna==2.6
     #   -r base.txt
     #   requests
     #   yarl
-ipython==7.31.1
+ipython==8.6.0
     # via -r heroku.in
 ipython-genutils==0.2.0
     # via traitlets
