@@ -178,7 +178,7 @@ django-storages==1.11.1
     # via -r base.txt
 django-svg-image-form-field==1.0.1
     # via -r base.txt
-django-templated-email==3.0.0
+django-templated-email==3.0.1
     # via -r base.txt
 django-timezone-field==4.1.1
     # via
