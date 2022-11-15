@@ -367,7 +367,7 @@ sendgrid==6.1.0
     # via -r base.txt
 sentry-sdk==1.5.10
     # via -r base.txt
-simplejson==3.17.5
+simplejson==3.18.0
     # via
     #   -r base.txt
     #   klaviyo
