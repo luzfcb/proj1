@@ -333,7 +333,7 @@ python-monkey-business==1.0.0
     # via
     #   -r base.txt
     #   django-nested-admin
-pytz==2018.9
+pytz==2022.7.1
     # via
     #   -r base.txt
     #   django
