@@ -392,7 +392,7 @@ sqlparse==0.2.4
     #   django-debug-toolbar
 stripe==2.55
     # via -r base.txt
-tablib[html,ods,xls,xlsx,yaml]==3.2.1
+tablib[html,xls,ods,xlsx,yaml]==3.4.0
     # via
     #   -r base.txt
     #   django-import-export
