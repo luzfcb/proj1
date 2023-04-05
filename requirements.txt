@@ -36,7 +36,7 @@ backcall==0.2.0
     # via ipython
 barnum==0.5.1
     # via -r base.txt
-beautifulsoup4==4.6.0
+beautifulsoup4==4.12.1
     # via
     #   -r base.txt
     #   pynliner
