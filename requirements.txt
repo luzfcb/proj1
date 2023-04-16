@@ -28,7 +28,7 @@ async-timeout==4.0.2
     # via
     #   -r base.txt
     #   aiohttp
-attrs==20.2.0
+attrs==23.1.0
     # via
     #   -r base.txt
     #   aiohttp
