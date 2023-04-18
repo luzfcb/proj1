@@ -301,7 +301,7 @@ pycountry==22.3.5
     # via
     #   -r base.txt
     #   facebook-business
-pygments==2.9.0
+pygments==2.15.1
     # via ipython
 pyjwt==1.7.1
     # via
