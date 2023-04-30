@@ -80,7 +80,7 @@ defusedxml==0.7.1
     # via
     #   -r base.txt
     #   django-svg-image-form-field
-diff-match-patch==20181111
+diff-match-patch==20230430
     # via
     #   -r base.txt
     #   django-import-export
