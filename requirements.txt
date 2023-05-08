@@ -194,7 +194,7 @@ djangorestframework==3.13.1
     # via
     #   -r base.txt
     #   drf-exceptions-hog
-drf-exceptions-hog==0.1.0
+drf-exceptions-hog==0.4.0
     # via -r base.txt
 drf-rw-serializers @ https://github.com/vintasoftware/drf-rw-serializers/archive/6cf31306276a966592984ac2601076fa6a594b55.tar.gz
     # via -r base.txt
