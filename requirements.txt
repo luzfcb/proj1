@@ -20,7 +20,7 @@ arrow==0.14.7
     # via
     #   -r base.txt
     #   tapioca-wrapper
-asgiref==3.5.0
+asgiref==3.7.1
     # via
     #   -r base.txt
     #   django
