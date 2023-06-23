@@ -202,7 +202,7 @@ et-xmlfile==1.0.1
     # via
     #   -r base.txt
     #   openpyxl
-facebook-business==13.0.0
+facebook-business==17.0.2
     # via -r base.txt
 freezegun-vinta==0.3.7.1
     # via -r base.txt
