@@ -216,7 +216,7 @@ future==0.17.1
     #   -r base.txt
     #   barnum
     #   django-inlinecss
-gunicorn==20.1.0
+gunicorn==21.2.0
     # via -r heroku.in
 hashids==1.2.0
     # via
