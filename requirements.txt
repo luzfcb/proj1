@@ -148,7 +148,7 @@ django-import-export==2.8.0
     # via -r base.txt
 django-inlinecss==0.3.0
     # via -r base.txt
-django-js-reverse==0.9.1
+django-js-reverse==0.10.2
     # via -r base.txt
 django-lifecycle==0.3.0
     # via -r base.txt
