@@ -188,7 +188,7 @@ django-waffle==2.4.1
     # via -r base.txt
 django-webpack-loader==1.5.0
     # via -r base.txt
-django-widget-tweaks==1.4.12
+django-widget-tweaks==1.5.0
     # via -r base.txt
 djangorestframework==3.13.1
     # via
