@@ -114,7 +114,7 @@ django==3.2.13
     #   drf-rw-serializers
     #   labcodes-django-admin-views
     #   model-bakery
-django-admin-rangefilter==0.8.4
+django-admin-rangefilter==0.11.1
     # via -r base.txt
 django-admin-sortable==2.2.4
     # via -r base.txt
