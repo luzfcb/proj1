@@ -124,7 +124,7 @@ django-autocomplete-light==3.9.4
     # via -r base.txt
 django-braces==1.15.0
     # via -r base.txt
-django-cache-memoize==0.1.7
+django-cache-memoize==0.2.0
     # via -r base.txt
 django-celery-beat==2.2.0
     # via -r base.txt
