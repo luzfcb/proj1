@@ -130,7 +130,7 @@ django-celery-beat==2.2.0
     # via -r base.txt
 django-celery-results==1.0.1
     # via -r base.txt
-django-cors-headers==3.4.0
+django-cors-headers==4.3.0
     # via -r base.txt
 django-debug-toolbar==3.2.3
     # via -r base.txt
