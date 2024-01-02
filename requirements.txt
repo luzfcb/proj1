@@ -400,7 +400,7 @@ tapioca-wrapper==1.4.2
     # via -r base.txt
 taxjar==2.0.0
     # via -r base.txt
-traitlets==5.0.5
+traitlets==5.14.1
     # via
     #   ipython
     #   matplotlib-inline
