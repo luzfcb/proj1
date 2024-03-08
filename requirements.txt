@@ -256,7 +256,7 @@ markuppy==1.14
     #   tablib
 matplotlib-inline==0.1.2
     # via ipython
-mixpanel==4.3.2
+mixpanel==4.10.1
     # via -r base.txt
 model-bakery==1.5.0
     # via -r base.txt
