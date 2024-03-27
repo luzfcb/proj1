@@ -244,7 +244,7 @@ jsonobject==2.0.0
     #   taxjar
 klaviyo==3.1.3
     # via -r base.txt
-kombu==4.6.11
+kombu==5.3.6
     # via -r base.txt
 labcodes-django-admin-views @ https://github.com/labcodes/django-admin-views/archive/623825c0ceb8db976b816944f64d94e09739b312.tar.gz
     # via -r base.txt
