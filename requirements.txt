@@ -277,7 +277,7 @@ openpyxl==3.0.9
     # via
     #   -r base.txt
     #   tablib
-parso==0.8.2
+parso==0.8.4
     # via jedi
 pexpect==4.8.0
     # via ipython
