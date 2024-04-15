@@ -254,7 +254,7 @@ markuppy==1.14
     # via
     #   -r base.txt
     #   tablib
-matplotlib-inline==0.1.2
+matplotlib-inline==0.1.7
     # via ipython
 mixpanel==4.3.2
     # via -r base.txt
