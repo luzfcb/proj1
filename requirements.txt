@@ -142,7 +142,7 @@ django-froala-editor==2.9.3
     # via -r base.txt
 django-hashid-field==3.3.4
     # via -r base.txt
-django-impersonate==1.4
+django-impersonate==1.9.3
     # via -r base.txt
 django-import-export==2.8.0
     # via -r base.txt
