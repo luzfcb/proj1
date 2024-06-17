@@ -406,7 +406,7 @@ traitlets==5.0.5
     #   matplotlib-inline
 twilio==6.51.1
     # via -r base.txt
-urllib3==1.26.6
+urllib3==2.2.2
     # via
     #   -r base.txt
     #   botocore
