@@ -329,7 +329,7 @@ python-http-client==3.2.1
     # via
     #   -r base.txt
     #   sendgrid
-python-monkey-business==1.0.0
+python-monkey-business==1.1.0
     # via
     #   -r base.txt
     #   django-nested-admin
