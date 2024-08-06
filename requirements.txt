@@ -340,7 +340,7 @@ pytz==2018.9
     #   django-timezone-field
     #   djangorestframework
     #   twilio
-pyyaml==5.4
+pyyaml==6.0.2
     # via
     #   -r base.txt
     #   tablib
