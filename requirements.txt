@@ -118,7 +118,7 @@ django-admin-rangefilter==0.8.4
     # via -r base.txt
 django-admin-sortable==2.2.4
     # via -r base.txt
-django-anymail==1.4
+django-anymail==11.1
     # via -r base.txt
 django-autocomplete-light==3.9.4
     # via -r base.txt
