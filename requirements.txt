@@ -365,7 +365,7 @@ s3transfer==0.4.2
     #   boto3
 sendgrid==6.1.0
     # via -r base.txt
-sentry-sdk==1.5.10
+sentry-sdk==2.13.0
     # via -r base.txt
 simplejson==3.17.5
     # via
