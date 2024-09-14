@@ -222,7 +222,7 @@ hashids==1.2.0
     # via
     #   -r base.txt
     #   django-hashid-field
-idna==2.6
+idna==3.9
     # via
     #   -r base.txt
     #   requests
