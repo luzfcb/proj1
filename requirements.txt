@@ -293,7 +293,7 @@ pretty-cron==1.2.0
     # via -r base.txt
 prompt-toolkit==3.0.18
     # via ipython
-psycopg2-binary==2.8.6
+psycopg2-binary==2.9.10
     # via -r base.txt
 ptyprocess==0.7.0
     # via pexpect
