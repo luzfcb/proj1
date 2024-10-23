@@ -84,7 +84,7 @@ diff-match-patch==20181111
     # via
     #   -r base.txt
     #   django-import-export
-dj-database-url==0.5.0
+dj-database-url==2.3.0
     # via -r base.txt
 django==3.2.13
     # via
