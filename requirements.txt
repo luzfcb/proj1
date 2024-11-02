@@ -42,7 +42,7 @@ beautifulsoup4==4.6.0
     #   pynliner
 billiard==3.6.4.0
     # via -r base.txt
-boltons==16.5.1
+boltons==24.1.0
     # via -r base.txt
 boto3==1.17.97
     # via -r base.txt
