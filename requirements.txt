@@ -12,7 +12,7 @@ aiosignal==1.2.0
     # via
     #   -r base.txt
     #   aiohttp
-amqp==2.6.1
+amqp==5.3.0
     # via
     #   -r base.txt
     #   kombu
