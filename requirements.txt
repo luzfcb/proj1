@@ -371,7 +371,7 @@ simplejson==3.17.5
     # via
     #   -r base.txt
     #   klaviyo
-six==1.16.0
+six==1.17.0
     # via
     #   -r base.txt
     #   django-anymail
