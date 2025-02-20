@@ -138,7 +138,7 @@ django-extensions==3.1.5
     # via -r base.txt
 django-filter==21.1
     # via -r base.txt
-django-froala-editor==2.9.3
+django-froala-editor==4.5.0
     # via -r base.txt
 django-hashid-field==3.3.4
     # via -r base.txt
