@@ -238,7 +238,7 @@ jmespath==0.10.0
     #   -r base.txt
     #   boto3
     #   botocore
-jsonobject==2.0.0
+jsonobject==2.3.1
     # via
     #   -r base.txt
     #   taxjar
