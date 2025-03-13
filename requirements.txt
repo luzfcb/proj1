@@ -250,7 +250,7 @@ labcodes-django-admin-views @ https://github.com/labcodes/django-admin-views/arc
     # via -r base.txt
 labcodes-django-auditlog @ https://github.com/labcodes/django-auditlog/archive/74773fa0db4db33aa822f269a6ead2346395d009.tar.gz
     # via -r base.txt
-markuppy==1.14
+markuppy==1.17
     # via
     #   -r base.txt
     #   tablib
