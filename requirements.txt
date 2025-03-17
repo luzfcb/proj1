@@ -262,7 +262,7 @@ model-bakery==1.5.0
     # via -r base.txt
 more-itertools==8.8.0
     # via -r base.txt
-multidict==4.7.6
+multidict==6.2.0
     # via
     #   -r base.txt
     #   aiohttp
