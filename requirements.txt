@@ -122,7 +122,7 @@ django-anymail==1.4
     # via -r base.txt
 django-autocomplete-light==3.9.4
     # via -r base.txt
-django-braces==1.15.0
+django-braces==1.17.0
     # via -r base.txt
 django-cache-memoize==0.1.7
     # via -r base.txt
