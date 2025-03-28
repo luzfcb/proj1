@@ -162,7 +162,7 @@ django-nested-admin==3.4.0
     # via -r base.txt
 django-object-actions==4.0.0
     # via -r base.txt
-django-recaptcha==2.0.6
+django-recaptcha==4.1.0
     # via -r base.txt
 django-redis==4.5.0
     # via -r base.txt
