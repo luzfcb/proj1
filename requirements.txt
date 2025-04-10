@@ -128,7 +128,7 @@ django-cache-memoize==0.1.7
     # via -r base.txt
 django-celery-beat==2.2.0
     # via -r base.txt
-django-celery-results==1.0.1
+django-celery-results==2.6.0
     # via -r base.txt
 django-cors-headers==3.4.0
     # via -r base.txt
