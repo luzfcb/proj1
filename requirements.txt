@@ -398,7 +398,7 @@ tablib[html,ods,xls,xlsx,yaml]==3.2.1
     #   django-import-export
 tapioca-wrapper==1.4.2
     # via -r base.txt
-taxjar==2.0.0
+taxjar==2.0.1
     # via -r base.txt
 traitlets==5.0.5
     # via
