@@ -291,7 +291,7 @@ pillow==9.0.1
     #   django-svg-image-form-field
 pretty-cron==1.2.0
     # via -r base.txt
-prompt-toolkit==3.0.18
+prompt-toolkit==3.0.51
     # via ipython
 psycopg2-binary==2.8.6
     # via -r base.txt
