@@ -53,7 +53,7 @@ jinja2==2.11.3
     #   flask
 jira==2.0.0
 ldap3==2.9.1
-lxml==4.3.5
+lxml==5.4.0
 mako==1.2.4
     # via
     #   alembic
