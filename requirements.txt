@@ -32,7 +32,7 @@ django-auth-ldap==2.1.1
 django-bootstrap3==12.0.3
 django-npm==1.0.1
 djangorestframework==3.11.2
-djangorestframework-api-key==2.3.0
+djangorestframework-api-key==3.1.0
 flask==1.1.4
 gitdb2==2.0.6
     # via
