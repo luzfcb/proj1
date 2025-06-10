@@ -37,7 +37,7 @@ flask==1.1.4
 gitdb2==2.0.6
     # via
     #   gitpython
-gitpython==2.1.15
+gitpython==3.1.44
 idna==2.8
     # via
     #   requests
