@@ -69,7 +69,7 @@ pbr==6.1.1
     # via
     #   jira
     #   pygerrit2
-pyasn1==0.5.1
+pyasn1==0.6.1
     # via
     #   ldap3
     #   pyasn1-modules
