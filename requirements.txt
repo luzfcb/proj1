@@ -41,7 +41,7 @@ gitpython==2.1.15
 idna==2.8
     # via
     #   requests
-importlib-metadata==6.7.0
+importlib-metadata==8.7.0
     # via
     #   mako
 itsdangerous==1.1.0
