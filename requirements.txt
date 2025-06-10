@@ -121,7 +121,7 @@ six==1.17.0
     #   jira
     #   python-dateutil
     #   sqlalchemy-utils
-smmap==5.0.2
+smmap==6.0.0
     # via
     #   smmap2
 smmap2==3.0.1
