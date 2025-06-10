@@ -74,7 +74,7 @@ pyasn1==0.5.1
     #   ldap3
     #   pyasn1-modules
     #   python-ldap
-pyasn1-modules==0.3.0
+pyasn1-modules==0.4.2
     # via
     #   python-ldap
 pycparser==2.21
