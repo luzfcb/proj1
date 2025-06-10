@@ -111,7 +111,7 @@ requests-oauthlib==2.0.0
 requests-toolbelt==1.0.0
     # via
     #   jira
-setuptools==68.0.0
+setuptools==80.9.0
     # via
     #   jira
     #   pbr
