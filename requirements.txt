@@ -47,7 +47,7 @@ importlib-metadata==6.7.0
 itsdangerous==1.1.0
     # via
     #   flask
-jenkinsapi==0.3.13
+jenkinsapi==0.3.14
 jinja2==2.11.3
     # via
     #   flask
