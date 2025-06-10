@@ -44,7 +44,7 @@ idna==2.8
 importlib-metadata==6.7.0
     # via
     #   mako
-itsdangerous==1.1.0
+itsdangerous==2.2.0
     # via
     #   flask
 jenkinsapi==0.3.13
