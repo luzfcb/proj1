@@ -20,7 +20,7 @@ click==7.1.2
 cryptography==45.0.4
     # via
     #   oauthlib
-cx-oracle==7.2.3
+cx-oracle==8.3.0
 defusedxml==0.7.1
     # via
     #   jira
