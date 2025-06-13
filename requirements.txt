@@ -36,7 +36,7 @@ django-python3-ldap==0.15.8
 django-structlog==4.0.1
 djangorestframework==3.16.0
 djangorestframework-api-key==3.1.0
-flask==3.0.3
+flask==3.1.1
 gitdb==4.0.12
     # via gitpython
 gitpython==3.1.44
