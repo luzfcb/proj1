@@ -63,7 +63,7 @@ markupsafe==3.0.2
     #   jinja2
     #   mako
     #   werkzeug
-oauthlib==3.2.2
+oauthlib==3.3.0
     # via requests-oauthlib
 oracledb==2.5.1
 packaging==25.0
