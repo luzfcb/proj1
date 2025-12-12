@@ -119,7 +119,7 @@ typing-extensions==4.14.0
     #   dj-database-url
     #   jira
     #   sqlalchemy
-urllib3==2.4.0
+urllib3==2.6.2
     # via requests
 werkzeug==3.1.3
     # via flask
