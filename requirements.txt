@@ -107,7 +107,7 @@ sqlalchemy==2.0.41
     # via
     #   alembic
     #   sqlalchemy-utils
-sqlalchemy-utils==0.41.2
+sqlalchemy-utils==0.42.1
 sqlparse==0.5.3
     # via django
 structlog==25.4.0
