@@ -76,7 +76,7 @@ pyasn1==0.5.1
     # via
     #   django-python3-ldap
     #   ldap3
-pycparser==2.22
+pycparser==3.0
     # via cffi
 pygerrit2==2.0.15
 pygments==2.19.1
