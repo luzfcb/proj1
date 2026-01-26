@@ -95,7 +95,7 @@ requests-oauthlib==2.0.0
     # via jira
 requests-toolbelt==1.0.0
     # via jira
-setuptools==80.9.0
+setuptools==80.10.2
     # via pbr
 six==1.17.0
     # via jenkinsapi
