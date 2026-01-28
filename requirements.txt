@@ -65,7 +65,7 @@ markupsafe==3.0.2
     #   werkzeug
 oauthlib==3.2.2
     # via requests-oauthlib
-oracledb==2.5.1
+oracledb==3.4.2
 packaging==25.0
     # via
     #   djangorestframework-api-key
