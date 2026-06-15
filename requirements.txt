@@ -103,7 +103,7 @@ smmap==5.0.2
     # via gitdb
 soupsieve==2.7
     # via beautifulsoup4
-sqlalchemy==2.0.41
+sqlalchemy==2.0.51
     # via
     #   alembic
     #   sqlalchemy-utils
