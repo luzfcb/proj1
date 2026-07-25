@@ -82,7 +82,7 @@ pygerrit2==2.0.15
 pygments==2.19.1
 python-ipware==3.0.0
     # via django-ipware
-pytz==2025.2
+pytz==2026.3.post1
     # via jenkinsapi
 requests==2.31.0
     # via
