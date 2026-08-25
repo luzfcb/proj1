@@ -70,7 +70,7 @@ packaging==25.0
     # via
     #   djangorestframework-api-key
     #   jira
-pbr==6.1.1
+pbr==7.1.2
     # via pygerrit2
 pyasn1==0.5.1
     # via
