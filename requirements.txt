@@ -14,7 +14,7 @@ charset-normalizer==3.4.2
     # via requests
 click==8.2.1
     # via flask
-cryptography==45.0.4
+cryptography==50.0.1
     # via oracledb
 defusedxml==0.7.1
     # via jira
